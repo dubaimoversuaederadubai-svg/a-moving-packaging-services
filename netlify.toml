@@ -1,0 +1,7 @@
+[build]
+    command = "npm install -g pnpm && pnpm install && pnpm --filter @workspace/moving-services run build"
+    publish = "artifacts/moving-services/dist"
+
+  [build.environment]
+    NODE_VERSION = "22"
+  
