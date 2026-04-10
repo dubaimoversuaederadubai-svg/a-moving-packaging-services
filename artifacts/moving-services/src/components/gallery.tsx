@@ -5,9 +5,19 @@ import { BrandBadge } from "./brand-badge";
 
 const galleryImages = [
   {
-    src: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80&w=1200",
-    alt: "AMP professional mover carrying cardboard box",
+    src: "/images/amp_mover_photo1.png",
+    alt: "AMP professional mover holding branded moving box",
     label: "Expert Packers",
+  },
+  {
+    src: "/images/amp_mover_photo2.png",
+    alt: "AMP crew loading branded boxes into moving truck",
+    label: "Our Team",
+  },
+  {
+    src: "/images/amp_mover_photo3.png",
+    alt: "AMP mover with stack of branded moving boxes",
+    label: "Branded Boxes",
   },
   {
     src: "https://images.unsplash.com/photo-1616432043562-3671ea2e5242?auto=format&fit=crop&q=80&w=1200",
@@ -15,19 +25,9 @@ const galleryImages = [
     label: "AMP Trucks",
   },
   {
-    src: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=1200",
-    alt: "AMP stacked cardboard moving boxes ready for loading",
-    label: "Branded Boxes",
-  },
-  {
     src: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=1200",
     alt: "AMP moving crew at work loading furniture",
-    label: "Our Team",
-  },
-  {
-    src: "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&q=80&w=1200",
-    alt: "Beautiful new home after AMP relocation",
-    label: "New Beginnings",
+    label: "Moving Day",
   },
   {
     src: "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&q=80&w=1200",
