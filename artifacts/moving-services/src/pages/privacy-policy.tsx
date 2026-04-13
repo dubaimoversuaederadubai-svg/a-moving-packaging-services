@@ -34,7 +34,7 @@ export default function PrivacyPolicy() {
               <p>
                 Welcome to <strong>Resume Builder Pro</strong> ("we", "our", or "us"). This Privacy Policy explains how we
                 collect, use, and protect information when you use our mobile application{" "}
-                <strong>Resume Builder Pro</strong> (<code className="bg-gray-100 px-1.5 py-0.5 rounded text-sm">com.portfoliobuilderpro</code>).
+                <strong>Resume Builder Pro</strong> (<code className="bg-gray-100 px-1.5 py-0.5 rounded text-sm">com.mohsinabid.resumebuilderpro</code>).
               </p>
               <p className="mt-3">By using our app, you agree to the terms of this Privacy Policy.</p>
             </section>
