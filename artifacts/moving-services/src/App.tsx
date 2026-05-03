@@ -15,6 +15,8 @@ function Router() {
     <Switch>
       <Route path="/" component={Home} />
       <Route path="/privacy-policy" component={PrivacyPolicy} />
+            <Route path="/privacy-policy-skydash" component={PrivacyPolicySkyDash} />
+
       <Route component={NotFound} />
     </Switch>
   );
