@@ -5,7 +5,6 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/not-found";
 import Home from "@/pages/home";
 import PrivacyPolicy from "@/pages/privacy-policy";
-import PrivacyPolicy from "@/pages/privacy-policy-skydash";
 
 
 const queryClient = new QueryClient();
@@ -15,7 +14,6 @@ function Router() {
     <Switch>
       <Route path="/" component={Home} />
       <Route path="/privacy-policy" component={PrivacyPolicy} />
-            <Route path="/privacy-policy-skydash" component={PrivacyPolicySkyDash} />
 
       <Route component={NotFound} />
     </Switch>
