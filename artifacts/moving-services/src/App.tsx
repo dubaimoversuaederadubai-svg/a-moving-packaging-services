@@ -5,6 +5,8 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/not-found";
 import Home from "@/pages/home";
 import PrivacyPolicy from "@/pages/privacy-policy";
+import PrivacyPolicy from "@/pages/privacy_policy_skydash";
+
 
 const queryClient = new QueryClient();
 
